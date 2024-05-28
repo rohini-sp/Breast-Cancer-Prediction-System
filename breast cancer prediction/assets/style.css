@@ -1,0 +1,48 @@
+/* streamlit styles */
+.block-container {
+    height: 100vh;
+    padding: 1rem 2rem;
+}
+
+/* graph and diagnosis container */
+.st-emotion-cache-ocqkz7 {
+    height: 100%;
+    padding: 0;
+}
+
+/* make chart full height */
+.polarsublayer { /* replace */
+    height: 100%;
+    padding: 0;
+}
+
+/* diagnosis box */
+.st-emotion-cache-j5r0tf {
+    padding: 1rem;
+    border-radius: 0.5rem;
+    background-color: #7E99AB;
+}
+
+/* sidebar */
+.st-emotion-cache-16txtl3 { 
+    padding-top: 1.5rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
+.diagnosis {
+    color: #fff;
+
+    padding: 0.2rem 0.5rem;
+    border-radius: 0.5rem;
+}
+
+.bright-red {
+    background-color: rgb(255, 75, 75);
+}
+.bright-green {
+    background-color: #01DB4B;
+    color: #000;
+}
